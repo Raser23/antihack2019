@@ -1,0 +1,6 @@
+[submodule "antihack2019_bots"]
+	path = antihack2019_bots
+	url = https://github.com/rbkn99/antihack2019_bots
+[submodule "antihack2019_bots"]
+	path = antihack2019_backend
+	url = https://github.com/rbkn99/antihack2019_backend
